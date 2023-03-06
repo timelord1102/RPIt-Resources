@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/main.css");
+@import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/logo.css");
 #loginPage:after{background:url(https://www.youtube.com/watch?v=mNcM7Sl0_CY);background-size:cover;content:"";height:100vh;left:0;position:fixed;top:0;width:100vw;z-index:1}
 
 /** @format */
