@@ -1,0 +1,53 @@
+#loginPage:after{background:url(https://www.youtube.com/watch?v=mNcM7Sl0_CY);background-size:cover;content:"";height:100vh;left:0;position:fixed;top:0;width:100vw;z-index:1}
+
+/** @format */
+:root {
+  --accent1-light: hsl(230, 91%, 23%);
+  --accent1-dark: hsl(230, 91%, 23%);
+  --accent1-light: hsla(230, 91%, 23%, 0.4);
+  --accent2-light: hsl(209, 98%, 53%);
+  --accent2-dark: hsl(209, 98%, 53%);
+}
+
+/*# sourceMappingURL=sea.css.map */
+
+/*:root {
+  --accent1-light: hs1(209, 97%, 52%);
+  --accent1-dark: hs1(209, 97%, 50%);
+  --accent1-light: hs1a(209, 97%, 52%, 0.4);
+  --accent2-light: hs1(321, 100%, 24%);
+  --accent2-dark: hs1(321, 100%, 22%);
+}*/
+
+
+.adminDrawerLogo img { content: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; } imgLogoIcon { content: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; } .pageTitleWithLogo { background-image: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; }
+
+
+/* Black Clover */
+.card[data-id='96b94b6089958aa695f33ddbdb5f27da']:hover .cardImageContainer, .card.show-animation[data-id='96b94b6089958aa695f33ddbdb5f27da']:focus .cardImageContainer { background-image: url("/Items/96b94b6089958aa695f33ddbdb5f27da/Images/Art?maxWidth=480&tag=d9506523cdba88c6159e623f221a1fbf&quality=90") !important;
+}
+
+/* Chainsaw Man */
+.card[data-id='4088631c431027f1b600a971378ca250']:hover .cardImageContainer, .card.show-animation[data-id='4088631c431027f1b600a971378ca250']:focus .cardImageContainer { background-image: url("/Items/4088631c431027f1b600a971378ca250/Images/Art?maxWidth=480&tag=2c64993020072392093a4e61c9ee6aa8&quality=90") !important;
+}
+
+/* Attack on Titan */
+.card[data-id='d30668d0e87d18fe12a16eace4581750']:hover .cardImageContainer, .card.show-animation[data-id='d30668d0e87d18fe12a16eace4581750']:focus .cardImageContainer { background-image: url("/Items/d30668d0e87d18fe12a16eace4581750/Images/Art?maxWidth=480&tag=2c64993020072392093a4e61c9ee6aa8&quality=90") !important;
+}
+
+/* Beastars */
+.card[data-id='68b614fbf48b93845fe40bbbc51435ff']:hover .cardImageContainer, .card.show-animation[data-id='68b614fbf48b93845fe40bbbc51435ff']:focus .cardImageContainer { background-image: url("/Items/68b614fbf48b93845fe40bbbc51435ff/Images/Art?maxWidth=480&tag=2c64993020072392093a4e61c9ee6aa8&quality=90") !important;
+}
+
+
+/* Assassination Classroom*/
+.card[data-id='01aff401af47bc9e30e594620355b609']:hover .cardImageContainer, .card.show-animation[data-id='01aff401af47bc9e30e594620355b609']:focus .cardImageContainer { background-image: url("/Items/01aff401af47bc9e30e594620355b609/Images/Art?maxWidth=480&tag=f7d6bfd810aea5ef62233e9c34204646&quality=90") !important;
+}
+
+/* Dorohedoro*/
+.card[data-id='ba4b27dd9ab507aff0b89cbbce0c8a03']:hover .cardImageContainer, .card.show-animation[data-id='ba4b27dd9ab507aff0b89cbbce0c8a03']:focus .cardImageContainer { background-image: url("/Items/ba4b27dd9ab507aff0b89cbbce0c8a03/Images/Art?maxWidth=480&tag=2c64993020072392093a4e61c9ee6aa8&quality=90") !important;
+}
+
+/* Dorohedoro*/
+.card[data-id='a0874cb6566f7c7b19975296564295db']:hover .cardImageContainer, .card.show-animation[data-id='a0874cb6566f7c7b19975296564295db']:focus .cardImageContainer { background-image: url("/Items/a0874cb6566f7c7b19975296564295db/Images/Art?maxWidth=480&tag=2c64993020072392093a4e61c9ee6aa8&quality=90") !important;
+}
