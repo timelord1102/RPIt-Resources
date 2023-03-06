@@ -19,6 +19,8 @@
   --accent2-dark: hs1(321, 100%, 22%);
 }*/
 
+@import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/round.css");
+
 
 .adminDrawerLogo img { content: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; } imgLogoIcon { content: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; } .pageTitleWithLogo { background-image: url('http://98.15.154.209:8096/Items/aa54ce8befdb1e56f5f15b4ce72e15c2/Images/BoxRear?maxWidth=333&tag=289b7f28db946a8c9d83f95b60625e3b&quality=90') !important; }
 
